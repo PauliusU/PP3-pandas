@@ -42,6 +42,6 @@ pipenv install
 
 ## Requirements
 
-- [ ] Complete this notebook: https://github.com/MindaugasBernatavicius/DeepLearningCourse/blob/master/03_Pandas/PP3_Pandas.ipynb
-- [ ] You will need to launch it, import all the libs and data (sometimes maybe even think about how to do it) and perform the actions described.
-- [ ] After completing it please provide a link with the completed tasks (link to google collab or github repository).
+- [X] Complete this notebook: https://github.com/MindaugasBernatavicius/DeepLearningCourse/blob/master/03_Pandas/PP3_Pandas.ipynb
+- [X] You will need to launch it, import all the libs and data (sometimes maybe even think about how to do it) and perform the actions described.
+- [X] After completing it please provide a link with the completed tasks (link to google collab or github repository).
