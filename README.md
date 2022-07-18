@@ -37,7 +37,7 @@ pipenv install
 
 5. Run project:
 ```bash
-
+pipenv run jupyter notebook PP3_Pandas.ipynb
 ```
 
 ## Requirements
