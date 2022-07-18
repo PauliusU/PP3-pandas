@@ -2,7 +2,7 @@
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/PauliusU/PP3-pandas/blob/master/LICENSE)
 
-Practical Project 3 (PP2) for Artificial Intelligence studies to solidify **Pandas** basics by practicing.
+Practical Project 3 (PP3) for Artificial Intelligence studies to solidify **Pandas** basics by practicing.
 
 ## Usage
 
