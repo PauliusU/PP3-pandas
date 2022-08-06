@@ -17,7 +17,7 @@ bash <(curl -s https://raw.githubusercontent.com/PauliusU/PP3-pandas/master/setu
 
 1. Clone this repo:
 ```bash
-git clone https://github.com/PauliusU/PP2-numpy.git
+git clone https://github.com/PauliusU/PP3-pandas.git
 ```
 
 2. Navigate into project:
